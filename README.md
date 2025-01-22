@@ -4,7 +4,7 @@ Hello, my name is Freelancer Shahjalal and I am a master's student at [National 
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: developershahjalal@gmail.com
 - 😄 Pronouns: Programmer/She/Her/Hers
-- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/freelancershahjalal) Community if you are ambitious!
+- ⚡ Fun fact: Checkout my [Freelancer Shahjalal](https://www.linkedin.com/in/freelancershahjalal) Community if you are ambitious!
 - 📝 [Resume](https://freelancershahjalal.github.io/media/freelancershahjalal.pdf)
 
 
