@@ -1,4 +1,4 @@
-![logo](1_HQO2mlMCy1M8edJaHqMyqA.jpg)
+![logo](1_HQO2mlMCy1M8edJaHqMyqA.png)
 
 Hello, my name is Freelancer Shahjalal and I am a master's student at [National University](https://www.nu.ac.bd/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [emete Technologic Australia Pvt. Ltd.](https://emete.com/) My technology stack involves  php, MySQL, javascript, laravel, vuejs, and, HTML/CSS/Bootstrap, wordpress, shopify. Besides programming, I have an immense interest in music.
 
