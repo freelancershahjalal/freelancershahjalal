@@ -7,7 +7,7 @@ Hello, my name is Freelancer Shahjalal and I am a master's student at [National 
 - ⚡ Fun fact: Checkout my [Freelancer Shahjalal](https://www.linkedin.com/in/freelancershahjalal) Community if you are ambitious!
 - 📝 [Resume](https://freelancershahjalal.github.io/media/freelancershahjalal.pdf)
 
-
+<h3>Contact with me:</h3>
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0866ff?style=flat-square&logo=Facebook&logoColor=white)](https://twitter.com/freelancershahjalalwebdesigner)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/f_shahjalal)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/freelancershahjalal)
