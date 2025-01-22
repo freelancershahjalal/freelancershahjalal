@@ -2,7 +2,7 @@
 Hello, my name is Freelancer Shahjalal and I am a master's student at [National University](https://www.nu.ac.bd/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [emete Technologic Australia Pvt. Ltd.](https://emete.com/) My technology stack involves  php, MySQL, javascript, laravel, vuejs, and, HTML/CSS/Bootstrap, wordpress, shopify. Besides programming, I have an immense interest in music.
 
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
+- 📫 How to reach me: developershahjalal@gmail.com
 - 😄 Pronouns: Programmer/She/Her/Hers
 - ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/freelancershahjalal) Community if you are ambitious!
 - 📝 [Resume](https://freelancershahjalal.github.io/media/freelancershahjalal.pdf)
