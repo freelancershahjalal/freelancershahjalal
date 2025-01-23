@@ -7,7 +7,7 @@
 </h1>
 
 
-Hello, my name is Freelancer Shahjalal and I am a master's student at [National University](https://www.nu.ac.bd/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [emete Technologic Australia Pvt. Ltd.](https://emete.com/) My technology stack involves PHP, MySQL, JavaScript, Laravel, Vuejs, and, HTML/CSS/Bootstrap, WordPress, Shopify. Besides programming, I have an immense interest in music.
+Hello, my name is Freelancer Shahjalal and I am a master's student at [National University](https://www.nu.ac.bd/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [emete Technologic Australia Pvt. Ltd.](https://emete.com/) My technology stack involves PHP, MySQL, JavaScript, Laravel, VueJS, and, HTML/CSS/Bootstrap, WordPress, Shopify. Besides programming, I have an immense interest in music.
 
 - 🔭 I'm currently working on "Emete Ltd."
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
