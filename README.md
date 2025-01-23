@@ -16,7 +16,6 @@ Hello, my name is Freelancer Shahjalal and I am a master's student at [National 
 - ⚡ Fun fact: Checkout my [Freelancer Shahjalal](https://www.linkedin.com/in/freelancershahjalal) Community if you are ambitious!
 - 📝 [Resume](https://freelancershahjalal.github.io/media/freelancershahjalal.pdf)
 
-<hr>
 
 <h3>Contact with me:</h3>
 
@@ -25,9 +24,6 @@ Hello, my name is Freelancer Shahjalal and I am a master's student at [National 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/freelancershahjalal)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/freelancershahjalal/)
 [![YouTube Badge](https://img.shields.io/badge/-youtube-f70132?style=flat-square&logo=youtube&logoColor=white)](https://instagram.com/freelancershahjalal/)
-
-
-<hr>
 
 <h3>Languages and Tools:</h3>
 
@@ -42,13 +38,12 @@ Hello, my name is Freelancer Shahjalal and I am a master's student at [National 
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/freelancershahjalal/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=freelancershahjalal&theme=react&border=61dafb&hide_border=true" alt="freelancershahjalal" />
     </a>
     <a href="https://github.com/freelancershahjalal/github-readme-stats" title="Go to Source">
